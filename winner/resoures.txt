@@ -1,0 +1,16 @@
+xammp
+https://www.apachefriends.org/download.html
+
+visual studio code
+https://code.visualstudio.com/download
+
+bootstrap urls
+https://getbootstrap.com/docs/5.3/getting-started/rtl/
+https://getbootstrap.com/docs/5.3/examples/jumbotrons/
+https://getbootstrap.com/docs/5.3/components/list-group/#flush
+https://getbootstrap.com/docs/5.3/forms/overview/
+https://getbootstrap.com/docs/5.2/components/modal/
+
+java script urls
+https://www.w3schools.com/howto/howto_js_countdown.asp
+https://stackoverflow.com/questions/29350504/circular-percent-progress-bar
